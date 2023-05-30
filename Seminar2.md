@@ -53,8 +53,8 @@ git checkout master
 ![Картинка1][image1]
 ![Картинка2][image2]
 
-[image1]: //bike1.png
-[image2]: //bike2.png
+[image1]: bike1.png
+[image2]: bike2.png
 
 
 ## Таблицы
