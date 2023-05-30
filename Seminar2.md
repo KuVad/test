@@ -35,3 +35,12 @@ git commit -m "message"
 git checkout master
 ```
 
+# Инструкция по разметке Markdown
+
+## Исходный код
+
+## Ссылки
+
+## Изображения
+
+## Таблицы
