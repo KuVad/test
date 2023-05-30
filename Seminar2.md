@@ -43,4 +43,18 @@ git checkout master
 
 ## Изображения
 
+Картинка без `alt` текста
+![](https://images.unsplash.com/photo-1684674096773-1fd8d14677b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80)
+
+Картинка с альтом и тайтлом:
+![Alt text](https://images.unsplash.com/photo-1685073129693-ae1c07169e07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1322&q=80 "Китай-город")
+
+Картинки «сноски»:
+![Картинка1][image1]
+![Картинка2][image2]
+
+[image1]: //bike1.png
+[image2]: //bike2.png
+
+
 ## Таблицы
