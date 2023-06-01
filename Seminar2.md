@@ -105,4 +105,3 @@ git checkout master
 
 ## Таблицы
 
-Рисование таблиц в Markdown
